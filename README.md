@@ -6,4 +6,6 @@ Competitive Programming Noob
 
 ## States
 
-[![WakaTime Stats](https://github-readme-stats.vercel.app/api/wakatime?username=Eitrous&layout=compact&theme=nord)](https://github.com/anuraghazra/github-readme-stats)
+<!--START_SECTION:waka-->
+<!--END_SECTION:waka-->
+
