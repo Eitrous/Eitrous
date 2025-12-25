@@ -4,7 +4,7 @@ Competitive Programming Noob
 
 [Codeforces](https://codeforces.com/profile/eitrous) | [Bilibili](https://space.bilibili.com/548336512)
 
-## States
+## Stats
 
 <!--START_SECTION:waka-->
 ![Code Time](http://img.shields.io/badge/Code%20Time-0%20secs-blue)
