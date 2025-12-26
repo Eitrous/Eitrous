@@ -7,7 +7,7 @@ Competitive Programming Weeb
 ## Stats
 
 <!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-1%20hr%2052%20mins-blue)
+![Code Time](http://img.shields.io/badge/Code%20Time-2%20hrs%201%20min-blue)
 
 ![Profile Views](http://img.shields.io/badge/Profile%20Views-234-blue)
 
@@ -17,21 +17,21 @@ Competitive Programming Weeb
 
 ```text
 🔥 Editors: 
-VS Code                  1 hr 29 mins        █████████████████████████   100.00 % 
+VS Code                  1 hr 29 mins        ⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿   100.00 % 
 
 💻 Operating System: 
-WSL                      50 mins             ██████████████░░░░░░░░░░░   55.79 % 
-Windows                  39 mins             ███████████░░░░░░░░░░░░░░   44.21 % 
+WSL                      50 mins             ⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀   55.79 % 
+Windows                  39 mins             ⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀   44.21 % 
 ```
 
 **I Mostly Code in C++** 
 
 ```text
-C++                      2 repos             █████████████████████████   100.00 % 
+C++                      2 repos             ⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿   100.00 % 
 ```
 
 
 
 
- Last Updated on 26/12/2025 12:36:13 UTC
+ Last Updated on 26/12/2025 12:56:57 UTC
 <!--END_SECTION:waka-->
