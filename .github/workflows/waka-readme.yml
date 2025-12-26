@@ -53,5 +53,7 @@ jobs:
 
                 IGNORED_REPOS: "waka-box"
 
+                SYMBOL_VERSION: 2
+
 
 
