@@ -9,7 +9,7 @@ Competitive Programming Weeb
 <!--START_SECTION:waka-->
 ![Code Time](http://img.shields.io/badge/Code%20Time-65%20hrs-blue?style=flat)
 
-![Profile Views](http://img.shields.io/badge/Profile%20Views-3-blue?style=flat)
+![Profile Views](http://img.shields.io/badge/Profile%20Views-0-blue?style=flat)
 
 ![Lines of code](https://img.shields.io/badge/From%20Hello%20World%20I%27ve%20Written-52.25%20thousand%20lines%20of%20code-blue?style=flat)
 
@@ -17,11 +17,11 @@ Competitive Programming Weeb
 
 ```text
 🔥 Editors: 
-VS Code                  3 hrs 39 mins       ⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿   100.00 % 
+VS Code                  2 hrs 41 mins       ⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿   100.00 % 
 
 💻 Operating System: 
-WSL                      2 hrs 52 mins       ⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣀⣀⣀⣀⣀   78.62 % 
-Windows                  46 mins             ⣿⣿⣿⣿⣿⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀   21.38 % 
+WSL                      1 hr 54 mins        ⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣀⣀⣀⣀⣀⣀⣀   70.85 % 
+Windows                  47 mins             ⣿⣿⣿⣿⣿⣿⣿⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀   29.15 % 
 ```
 
 **I Mostly Code in JavaScript** 
@@ -35,5 +35,5 @@ Nunjucks                 1 repo              ⣿⣿⣿⣿⣿⣀⣀⣀⣀⣀⣀�
 
 
 
- Last Updated on 12/02/2026 01:56:25 UTC
+ Last Updated on 13/02/2026 01:59:12 UTC
 <!--END_SECTION:waka-->
