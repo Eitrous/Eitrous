@@ -41,6 +41,7 @@ jobs:
 
                 SHOW_UPDATED_DATE: "True"
                 SHOW_LINES_OF_CODE: "True"
+                SHOW_PROFILE_VIEWS: "False" 
 
                 SHOW_COMMIT: "False"
                 SHOW_DAYS_OF_WEEK: "False"
