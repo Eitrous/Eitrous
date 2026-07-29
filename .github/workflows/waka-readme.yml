@@ -39,6 +39,8 @@ jobs:
 #                SHOW_LANGUAGE_PER_REPO: "True" #  
 #                SYMBOL_VERSION: "2" # 设置为进度条的符
 
+                SHOW_AI_CODING: "False"
+
                 SHOW_UPDATED_DATE: "True"
                 SHOW_LINES_OF_CODE: "True"
                 SHOW_PROFILE_VIEWS: "False" 
