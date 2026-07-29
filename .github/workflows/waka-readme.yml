@@ -40,6 +40,7 @@ jobs:
 #                SYMBOL_VERSION: "2" # 设置为进度条的符
 
                 SHOW_AI_CODING: "False"
+                SHOW_AI_CODE_TIME: "False"
 
                 SHOW_UPDATED_DATE: "True"
                 SHOW_LINES_OF_CODE: "True"
