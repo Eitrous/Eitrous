@@ -1,6 +1,6 @@
 ## Bio
 
-Competitive Programming Weeb
+Weeb
 
 
 ## Stats
